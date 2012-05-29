@@ -22,3 +22,4 @@ if(!defined('BLOCKTYPES_PERMISSIONS_BOOTSTRAP_CORRECTLOAD')){
 	}
 }
 //-- BLOCKTYPES PERMISSIONS PACKAGE BOOTSTRAP LOAD CODE END --//?>
+//-- Practical joke, for fun...and to test this git --//?>
