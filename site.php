@@ -5,6 +5,10 @@ define('ENABLE_APPLICATION_EVENTS', true);
 define('PERMISSIONS_MODEL', 'advanced');
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'alpha');
+define('ENABLE_NEWSFLOW_OVERLAY', false);
+define('ENABLE_APP_NEWS', false);
+define('DB_SERVER', 'c5memo.db.8458944.hostedresource.com');
+define('DB_USERNAME', 'c5memo');
 define('DB_PASSWORD', 'Cand0ver');
 define('DB_DATABASE', 'av');
 //-- define('BASE_URL', 'http://localhost:8888'); --//
